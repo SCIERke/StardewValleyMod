@@ -1,0 +1,10 @@
+{
+  "Name": "Testing",
+  "Author": "Test",
+  "Version": "1.0.0",
+  "Description": "It's testing mod",
+  "UniqueID": "Test.Testing",
+  "EntryDll": "Testing.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
